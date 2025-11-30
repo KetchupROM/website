@@ -13,21 +13,3 @@ This repository hosts the **KetchupROM GitHub Pages site**, including the homepa
 ## Website
 
 Visit the Discord Server: https://discord.gg/vvTxZXZbcz
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Little easter egg ;)
